@@ -1,4 +1,4 @@
-# PythonGUI
+# Python Graphical User Interface
 *******************
 *READ ME IMPORTANT* 
 *******************
