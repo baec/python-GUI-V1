@@ -12,5 +12,5 @@ You can type in the GUI input field small.csv and it will give answers based on 
 CSV files to input:
 
 small.csv ,
-,medium.csv
+medium.csv ,
 large.csv
